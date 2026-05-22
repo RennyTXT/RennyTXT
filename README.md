@@ -27,21 +27,6 @@
 
 ---
 
-### 📈 Reach
-<p align="center">
-  <a href="https://github.com/RennyTXT">
-    <img src="https://github-profile-visitor-badge.vercel.app/api?username=RennyTXT&color=0D1117&style=flat-square&labelColor=30363D" alt="Visitors" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RennyTXT">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RennyTXT&theme=dark" alt="Summary" />
-  </a>
-</p>
-
----
-
 ### 🤝 Contact
 <p align="center">
   <a href="https://www.instagram.com/d.null__/" target="blank">
