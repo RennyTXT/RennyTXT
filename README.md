@@ -27,19 +27,11 @@
 
 ---
 
-### 📉 Activity & Reach
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RennyTXT&theme=github-compact&bg_color=0D1117&color=8B949E&line=C9D1D9&point=C9D1D9&area=true&hide_border=true" />
-</p>
-
+### 📈 Reach
 <p align="center">
   <a href="https://github.com/RennyTXT">
     <img src="https://github-profile-visitor-badge.vercel.app/api?username=RennyTXT&color=0D1117&style=flat-square&labelColor=30363D" alt="Visitors" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RennyTXT/RennyTXT/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 <p align="center">
