@@ -18,11 +18,23 @@
 
 ---
 
-### 🛠️ Stack
+### 🛠️ Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,git,github,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,html&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
+</p>
+
+---
+
+### 🎵 Listening on YouTube Music
+<p align="center">
+  <a href="https://music.youtube.com">
+    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music" />
   </a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Curating+the+perfect+coding+playlist...;Currently+exploring+Lo-Fi+and+Synthwave" alt="Music Quote" />
 </p>
 
 ---
