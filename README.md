@@ -27,17 +27,13 @@
 
 ---
 
-### 📈 Activity
+### 📊 Contributions
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RennyTXT&theme=github-compact&bg_color=0D1117&color=8B949E&line=C9D1D9&point=C9D1D9&area=true&hide_border=true" />
+  <img width="100%" src="https://raw.githubusercontent.com/RennyTXT/RennyTXT/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
----
-
-### 📊 Performance
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RennyTXT&show_icons=true&theme=dark&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=C9D1D9&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennyTXT&layout=compact&theme=dark&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RennyTXT&theme=github-compact&bg_color=0D1117&color=8B949E&line=C9D1D9&point=C9D1D9&area=true&hide_border=true" />
 </p>
 
 ---
