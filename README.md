@@ -20,7 +20,7 @@
 
 ### 🕺 Michael Jackson Moonwalk
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZkYjYyYjYyYjYyYjYyYjYyYjYyYjYyYjYyYjYyYjYyJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKv6M9C6L2L2L2M/giphy.gif" width="200" alt="MJ Moonwalk" />
+  <img src="https://media.tenor.com/7YfX7fK3YfMAAAAi/michael-jackson-moonwalk.gif" width="200" alt="MJ Moonwalk" />
 </p>
 
 ---
