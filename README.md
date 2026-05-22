@@ -27,18 +27,6 @@
 
 ---
 
-### 🎵 Listening on YouTube Music
-<p align="center">
-  <a href="https://music.youtube.com">
-    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Curating+the+perfect+coding+playlist...;Currently+exploring+Lo-Fi+and+Synthwave" alt="Music Quote" />
-</p>
-
----
-
 ### 🤝 Contact
 <p align="center">
   <a href="https://www.instagram.com/d.null__/" target="blank">
