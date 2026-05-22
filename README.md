@@ -33,10 +33,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennyTXT&layout=compact&theme=dark&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=RennyTXT&theme=dark&background=0D1117&fire=C9D1D9&ring=C9D1D9&sideNums=8B949E&currStreakNum=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&hide_border=true" />
-</p>
-
 ---
 
 ### 🤝 Contact
