@@ -18,13 +18,6 @@
 
 ---
 
-### 🕺 Michael Jackson Moonwalk
-<p align="center">
-  <img src="mj-moonwalk.gif" width="200" alt="MJ Moonwalk" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html&theme=dark" />
