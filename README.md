@@ -27,17 +27,6 @@
 
 ---
 
-### 📊 Contributions
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/RennyTXT/RennyTXT/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RennyTXT&theme=github-compact&bg_color=0D1117&color=8B949E&line=C9D1D9&point=C9D1D9&area=true&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Contact
 <p align="center">
   <a href="https://www.instagram.com/d.null__/" target="blank">
